@@ -1,1 +1,2 @@
 # Assignment-1-java
+Write a program in Java that accepts username and password and performs login function. Print each character of password as required while receiving it. The program should give three tries to enter correct username and password. Comment appropriately after each entity. Add all relevant screenshots as well from your program. Also share the URL of your GitHub where you have uploaded your work so that I can stimulate the same.
